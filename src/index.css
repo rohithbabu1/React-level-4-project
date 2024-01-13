@@ -1,0 +1,22 @@
+h1,
+h2{
+    font-family: 'Libre Baskerville', serif;
+}
+p{
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-weight: normal;
+    font-size: larger;
+}
+span,
+Label,
+h5{
+    font-family: 'Hind Siliguri', sans-serif;
+}
+button{
+    font-family: 'Hind Siliguri', sans-serif;
+}
+.normal_text{
+    font-family: 'Hind Siliguri', sans-serif;
+    font-size: large
+}

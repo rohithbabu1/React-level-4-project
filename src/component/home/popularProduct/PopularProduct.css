@@ -1,0 +1,18 @@
+.card_body{
+    margin: 0 0 50px 0;
+    
+    border-radius: 25px !important;
+    /* box-shadow:11px 18px 11px 0px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19); */
+}
+.cart{
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+.card_body:hover{
+    background-image: linear-gradient(to right, #9F55D5, #7465DB,#1982EC);
+    color: white;
+    box-shadow:11px 18px 11px 0px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19)  ;
+    /* transform: scale(1.07); */
+    border: none;
+}

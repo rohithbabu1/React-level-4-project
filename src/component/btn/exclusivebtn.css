@@ -1,0 +1,18 @@
+.exclucive_btn{
+    border: 1.5px solid black !important;
+    border-radius: 6px;
+    color:black !important;
+    background-color: rgba(0, 0, 255, 0.0) ;
+    
+    padding: 7px;
+    font-weight: 400;
+    
+}
+.exclucive_btn:hover{
+    border: 1.5px solid white !important;
+    color:white !important;
+    background-image: linear-gradient(to right, #9F55D5, #7465DB,#1982EC);
+   
+    font-weight: 500;
+    border: 1.5px solid rgba(0, 0, 0, 0.0);
+}

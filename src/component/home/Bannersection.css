@@ -1,0 +1,36 @@
+#banner_text{
+    padding: 52px 0px;
+}
+.gradient-text {
+    background-image: linear-gradient(to top, #9F55D5,#1982EC);
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: 700;
+    font-family: 'Unica One', sans-serif;
+    font-size: 4.5rem;
+  }
+  
+.swi{
+    
+    border: 1.5px solid black;
+    border-radius: 6px;
+    color:black;
+    background-color: rgba(0, 0, 255, 0.0) ;
+    
+    padding: 7px;
+    font-weight: 400;
+}
+.swi:hover{
+   
+    border: 1.5px solid white;
+    color:white;
+    background-image: linear-gradient(to right, #9F55D5, #7465DB,#1982EC);
+    /* background-color: rgb(237, 111, 33); */
+    font-weight: 500;
+    border: 1.5px solid rgba(0, 0, 0, 0.0);
+    
+}
+.imgdict{
+    display: flex;
+    flex-direction: column-reverse;
+}

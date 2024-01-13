@@ -1,0 +1,45 @@
+.spacingb{
+    margin:70px 0 0 0 
+
+}
+.spacing{
+    margin:117px 0 0 0 ;
+}
+.fl{
+    display: flex;
+}
+.product_spacing{
+    padding: 103px 0 0 0 ;
+}
+.head_spacing{
+    margin: 112px 0 96px 0;
+
+    text-align: center;
+}
+.head_spacings{
+    margin: 100px 0 96px 0;
+}
+@media screen and (max-width: 992px) {
+    .exclusive{
+        margin: 17px 0;
+        flex-direction: column;
+        align-items: center;
+    }
+    .card_body{
+            margin: 0 0 50px 0;
+    }
+    .product_card{
+        margin: 0 0 50px 0;
+    }
+    .hidden{
+        display: none;
+    }
+}
+@media screen and (max-width: 991px){
+    .hidden{
+        display: none;
+    }
+    body{
+        text-align: center;
+    }
+}

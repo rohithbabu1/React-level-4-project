@@ -1,0 +1,23 @@
+.cartrr{
+    border: 1px solid black;
+    padding: 57px 3px;
+}
+.size_img{
+    height: 211px;
+}
+.btnpadding{
+
+    padding: 0 10px 0 0;
+}
+.pricing ul li{
+    list-style: none;
+}
+.stricke{
+    text-decoration: line-through
+}
+.cupon{
+    padding: 10px;
+    box-shadow: 3px 7px 6px 0px rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    margin: 0 0 20px 0;
+    width: 50%;
+}
